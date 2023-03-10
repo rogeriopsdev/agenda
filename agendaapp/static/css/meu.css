@@ -1,0 +1,27 @@
+img{
+    height: 200px;
+    width: 200px;
+}
+figure{
+    /*background: #0dcaf0;*/
+}
+#normal{
+    height: 200px;
+    width: 200px;
+    /*border: 2px solid;*/
+}
+footer{
+    height: 100px;
+}
+#menu{
+    color: #0a58ca;
+}
+.dropdown-item{
+    color: #2c0b0e;
+}
+.nav-link{
+    color: #0a58ca;
+}
+.navbar-brand{
+    color: #997404;
+}
